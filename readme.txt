@@ -1,0 +1,6 @@
+Colocar a pasta Dados no "c:"
+A planilha da Anatel já está dentro da pasta Dados
+Então quando abrir, o grid ele ja vai puxar os dados, você atualizando ou modificando
+ele irá aparecer no grid também, além do arquivo csv
+
+Projeto criado em 01/07/2022 po Wendel Conferi
